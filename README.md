@@ -131,8 +131,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tejasbariya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasbariya&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-tejasbariyas-projects.vercel.app/api?username=tejasbariya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-tejasbariyas-projects.vercel.app/api/top-langs/?username=tejasbariya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -152,7 +152,7 @@
 ### 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcode-stats-card.vercel.app/?username=tejasbariya&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-psi.vercel.app/?username=tejasbariya&theme=dark" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
