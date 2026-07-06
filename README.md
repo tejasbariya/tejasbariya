@@ -131,8 +131,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-tejasbariyas-projects.vercel.app/api?username=tejasbariya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-tejasbariyas-projects.vercel.app/api/top-langs/?username=tejasbariya&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-tau-puce-74605x1u48.vercel.app/api?username=tejasbariya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-tau-puce-74605x1u48.vercel.app/api/top-langs/?username=tejasbariya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -140,7 +140,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejasbariya&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-ruby-nine.vercel.app/?username=tejasbariya&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
